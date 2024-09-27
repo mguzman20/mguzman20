@@ -5,9 +5,6 @@
 🎓 I’m currently studying on the Pontificia Universidad Catolica de Chile<br>📫 Reach me m.gguzman@uc.cl
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matías-guzmán) 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mguzman20&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mguzman20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
