@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Matias Guzman</h1>
-<h3 align="center">Software engineer of the Pontificia Universidad Catolica de Chile</h3>
-
 ## 🍕 About Me:
 🎓 I’m currently studying on the Pontificia Universidad Catolica de Chile<br>📫 Reach me m.gguzman@uc.cl
 
